@@ -1,7 +1,7 @@
 <keymap version="1" name="lfeng" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -11,6 +11,7 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CodeCompletion" />
+  <action id="DatabaseView.PropertiesAction" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
