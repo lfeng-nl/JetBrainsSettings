@@ -57,6 +57,13 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="meta k" />
